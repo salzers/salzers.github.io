@@ -1,0 +1,4 @@
+baseURL = 'http://salzers.github.io'
+languageCode = 'en-us'
+title = 'salzers Dev_Blog'
+theme = 'hugo-theme-stack'
